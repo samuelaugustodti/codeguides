@@ -1,6 +1,6 @@
 ## Guia de Código Python:
 
-**Você SEMPRE deverá sempre checar se todo o código estiver tipagem estática com mypy para melhorar a segurança do código.**
+** REGRA 0: O código deve SEMPRE estar usando tipagem estática com mypy para melhorar a segurança do código.**
 
 1. O código não deve ser comentado (com '# meu código'). Você deve descomentar ou deletar este pedaço de código comentado.
 2. Remova comentários desnecessários no código (com '# meu comentário'). Seu código deve ser claro e autoexplicativo.
