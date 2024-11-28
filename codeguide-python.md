@@ -15,3 +15,4 @@
 13. Prefira composição em vez de herança. Favoreça a composição de objetos para alcançar a reutilização de código e flexibilidade em vez de depender fortemente da herança de classes.
 14. Use docstrings para documentar suas funções, classes e módulos. Eles devem descrever o que eles fazem, não como.
 15. Siga a PEP 8, o guia de estilo oficial para Python, sempre que possível. Ele contém muitas dicas úteis sobre como formatar seu código.
+16. Use tipagem estática com mypy para melhorar a segurança do código.
